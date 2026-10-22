@@ -9,7 +9,6 @@ Cairo, Egypt · Open to AI / Data Analytics roles
 [![GitHub](https://img.shields.io/badge/GitHub-bashar--11-181717?logo=github)](https://github.com/bashar-11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bashar--sayed-0A66C2?logo=linkedin)](https://linkedin.com/in/bashar-sayed-972110220)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-BasharSayed-FFD21E?logo=huggingface)](https://huggingface.co/BasharSayed)
-[![Website](https://img.shields.io/badge/Website-bashar--liveblog365.com-2ea44f)](https://bashar.liveblog365.com)
 
 </div>
 
@@ -53,6 +52,12 @@ The parts of the work that rarely show up in a screenshot:
 **Data & backend** pandas · NumPy · scikit-learn · FastAPI · Streamlit · Qdrant · BM25  
 **Frontend & BI** React 19 · Vite · Tailwind · Radix UI · Three.js · WebRTC · Power BI · Tableau  
 **Practice** pytest · Ruff · GitHub Actions · Docker · Render
+
+## Currently learning (October 2026)
+
+- LLM evaluation frameworks and production guardrails
+- Real-time computer vision on edge devices (TFLite / ONNX)
+- Bilingual (Arabic/English) retrieval and generation
 
 ## Education
 
