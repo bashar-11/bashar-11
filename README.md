@@ -19,15 +19,15 @@ I build production AI systems: hybrid RAG pipelines, computer vision detectors, 
 
 **Currently building:** Agentic analytics systems with LangChain Deep Agents for BI automation on Microsoft Azure (Azure AI + Foundry).
 
-**[📄 CV / Resume](https://drive.google.com/file/d/1BLlN15zBbMjN9IPCPuSFdI4maQSOh30n/view?usp=sharing)** · **[📫 Contact](mailto:basharsayed2020@gmail.com)**
+**[CV / Resume](https://drive.google.com/file/d/1BLlN15zBbMjN9IPCPuSFdI4maQSOh30n/view?usp=sharing)** · **[Contact](mailto:basharsayed2020@gmail.com)**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Metrics | Stack | Repo |
 |---|---|---|---|
-| **SignBridge** | Sign↔Text translation, Arabic (33 classes) & American (28 classes) | MediaPipe, WebRTC, Three.js, FastAPI, React | [View](https://github.com/bashar-11/SignBridge) |
+| **SignBridge** | Sign<->Text translation, Arabic (33 classes) & American (28 classes) | MediaPipe, WebRTC, Three.js, FastAPI, React | [View](https://github.com/bashar-11/SignBridge) |
 | **PPE Detection (YOLOv11)** | Precision **93.62%** · Recall **90.36%** · mAP@50 **92.34%** | YOLOv11, PyTorch, Streamlit, OpenCV | [View](https://github.com/bashar-11/PPE-Detection.yolov11) |
 | **NexusRAG** | 100+ documents · BM25 + ChromaDB + RRF · Llama-3.3-70B | LangChain, ChromaDB, Groq, Streamlit | [View](https://github.com/bashar-11/nexus-rag) |
 | **Qwen3-4B Business Copilot** | Fine-tuned LLM · Apache 2.0 · Hugging Face | Unsloth, TRL, Qwen3-4B | [View](https://huggingface.co/BasharSayed/qwen3-4b-business-copilot) |
@@ -35,7 +35,7 @@ I build production AI systems: hybrid RAG pipelines, computer vision detectors, 
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 | Certification | Issuer | Date |
 |---|---|---|
@@ -47,7 +47,7 @@ I build production AI systems: hybrid RAG pipelines, computer vision detectors, 
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **AI / ML:** Retrieval-Augmented Generation (RAG) · Hybrid Search · LLM Fine-Tuning · Prompt Engineering · NLP · Computer Vision (YOLOv11) · Machine Learning · Deep Learning · Vector Databases (ChromaDB) · Model Evaluation
 
@@ -61,7 +61,7 @@ I build production AI systems: hybrid RAG pipelines, computer vision detectors, 
 
 ---
 
-## 🎓 Education
+## Education
 
 **Academic Diploma in Computer Science** — Faculty of Graduate Studies for Statistical Research, Cairo University (Oct 2024 – Present) · Level 2
 
@@ -69,13 +69,13 @@ I build production AI systems: hybrid RAG pipelines, computer vision detectors, 
 
 ---
 
-## 🌍 Languages
+## Languages
 
 Arabic — Native · English — Professional working proficiency
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
 The fastest way to reach me is [LinkedIn](https://linkedin.com/in/bashar-sayed-972110220) or email: **basharsayed2020@gmail.com**
 
